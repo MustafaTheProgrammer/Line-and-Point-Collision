@@ -1,5 +1,5 @@
 -Running program first:
-1. download the file here, DinoRunner.java
+1. download the file here, LineAndPointCollision.java
 2. download the Java SDK that I think is called JDK
 3. go into terminal
 4. compile program with javac LineAndPointCollision.java
